@@ -1,5 +1,5 @@
 _repo: The-World-s-Illusion-Volume-2-of-2-Ruth_57847
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Lewisohn, Ludwig
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '4904'
     url: http://www.gutenberg.org/2009/agents/4904
     wikipedia: http://en.wikipedia.org/wiki/Ludwig_Lewisohn
+covers:
+- cover_type: archival
+  image_path: 57847-h/images/cover.jpg
 creator:
   author:
     agent_name: Wassermann, Jakob
@@ -20,6 +23,8 @@ creator:
     - http://de.wikipedia.org/wiki/Jakob_Wassermann
     - http://en.wikipedia.org/wiki/Jakob_Wassermann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57847#The-World-s-Illusion-Volume-2-of-2-Ruth
 gutenberg_issued: '2018-09-04'
 gutenberg_type: Text
 identifiers:
